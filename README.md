@@ -4,4 +4,4 @@ To built visualizations to see the weather trend and time series models to predi
 
 ## Explanatory Analysis
 - plot line graphs to see the monthly/seasonal trend
-- the temperature of winter increased more during recent years (significancy needs to be verified)
+- the temperature of winter increased more during recent years (significant test will be conducted)
